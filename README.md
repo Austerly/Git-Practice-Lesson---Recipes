@@ -1,5 +1,6 @@
 # Git-Practice-Lesson---Recipes
 
+Go to Taco amigo and buy a taco
 Tacos are delicious. I enjoy eating them
 
 I love salsa
